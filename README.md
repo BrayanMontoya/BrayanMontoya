@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### What I'm listenig to:
+
+[![Spotify](https://novatorem-brayanmontoya.vercel.app/api/spotify)](https://open.spotify.com/user/12175940851)
